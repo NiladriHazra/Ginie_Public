@@ -10,7 +10,7 @@ Ginie helps users discover movies and TV shows with AI-powered recommendations a
 
 
 
-![This is the landing page of Solana Rupiya ](./public/image.png)
+![This is the landing page of Ginie ](./public/image.png)
 
 ## Features
 
