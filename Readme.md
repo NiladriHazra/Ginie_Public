@@ -5,6 +5,13 @@ Ginie helps users discover movies and TV shows with AI-powered recommendations a
 
 📱 **Demo Video**: [Watch on X/Twitter](https://x.com/pixelNiladri/status/1911432555611512977)
 
+## ScreenShot
+
+
+
+
+![This is the landing page of Solana Rupiya ](./public/image.png)
+
 ## Features
 
 ### Content Discovery
