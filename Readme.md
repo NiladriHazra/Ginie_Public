@@ -3,6 +3,8 @@
 ## Overview
 Ginie helps users discover movies and TV shows with AI-powered recommendations and a sleek interface built with Expo and React Native.
 
+### Powered by locally trained and fine tuned Ginie AI model running on latest Llama 3.5
+
 📱 **Demo Video**: [Watch on X/Twitter](https://x.com/pixelNiladri/status/1911432555611512977)
 
 ## ScreenShot
