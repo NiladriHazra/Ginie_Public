@@ -1,4 +1,4 @@
-# 🎥 Ginie - AI-Powered Movie Discovery App
+# 🎥 Ginie - AI-Powered Movie Android App
 
 ## The main repo is Private
 
