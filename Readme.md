@@ -1,5 +1,7 @@
 # 🎥 Ginie - AI-Powered Movie Discovery App
 
+## The main repo is Private
+
 ## Overview
 Ginie helps users discover movies and TV shows with AI-powered recommendations and a sleek interface built with Expo and React Native.
 
