@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@NiladriHazra](https://github.com/NiladriHazra)
 - Twitter: [@PixelNiladri](https://x.com/PixelNiladri)
 
-*Last updated: 2025-04-08*# Ginie_Public
+*Last updated: 2025-05-22*# Ginie_Public
