@@ -3,7 +3,9 @@
 ## The main repo is Private
 
 ## Overview
-Ginie helps users discover movies and TV shows with AI-powered recommendations and a sleek interface built with Expo and React Native.
+>Ginie helps users discover movies and TV shows with AI-powered recommendations and search 
+>Search any Scene of a movie by describing and small detail
+>Download youtube, spotify, and terabox files
 
 ### Powered by locally trained and fine tuned Ginie AI model running on latest Llama 3.5
 
@@ -15,6 +17,17 @@ Ginie helps users discover movies and TV shows with AI-powered recommendations a
 
 
 ![This is the landing page of Ginie ](./public/image.png)
+
+## Tech Stack
+
+### Frontend
+- React Native + Expo
+- Expo Router for navigation
+- MotiView & Reanimated for animations
+
+### Backend
+- Appwrite Cloud
+- llama 3.5 locally fined tuned as Ginie AI
 
 ## Features
 
@@ -34,16 +47,7 @@ Ginie helps users discover movies and TV shows with AI-powered recommendations a
 - Animated transitions
 - Responsive layout
 
-## Tech Stack
 
-### Frontend
-- React Native + Expo
-- Expo Router for navigation
-- MotiView & Reanimated for animations
-
-### Backend
-- Appwrite Cloud
-- TMDB API
 
 ## License
 MIT License
